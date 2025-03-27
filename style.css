@@ -1,0 +1,33 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    width: 100%;
+    font-size: 30px;
+}
+.p {
+    margin: 200px;
+    color: #000000;
+    text-align: center;
+    font-size: 40px;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+}
+.box {
+    color: white;
+    width: 558px;
+    height: 452px;
+    background-color: red;
+    font-size: 40px;
+    padding: 250px;
+    box-sizing: border-box;
+}
+.navbar1 {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    font-size: 30px;
+    margin: 150px 0 100px 0;
+}
